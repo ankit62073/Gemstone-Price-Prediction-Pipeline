@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/e87bfcdd9a864e72954ef18c2d000281/artifacts
+end_time: 1724578051015
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e87bfcdd9a864e72954ef18c2d000281
+run_name: overjoyed-dove-210
+run_uuid: e87bfcdd9a864e72954ef18c2d000281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724578042105
+status: 3
+tags: []
+user_id: ANKIT SINGH
