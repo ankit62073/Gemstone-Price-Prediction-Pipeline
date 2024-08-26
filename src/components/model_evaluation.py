@@ -17,7 +17,7 @@ class ModelEvaluation:
     def eval_metrics(self,actual,pred):
         rmse = np.sqrt(mean_squared_error(actual, pred))# here is RMSE
         mae = mean_absolute_error(actual, pred)# here is MAE
-        r2 = r2_score(actual, pred)# here is r3 value
+        r2 = r2_score(actual, pred)# here is r2 value
         logging.info("evaluation metrics captured")
         return rmse, mae, r2
 
